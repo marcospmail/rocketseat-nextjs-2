@@ -20,7 +20,7 @@ const Home = ({ products: recommendedProducts }: HomeProps) => {
         title="Home"
       />
 
-      <Title>Hello professor</Title>
+      <Title>Hello teacher</Title>
 
       <ul>
         {recommendedProducts.map(product => (
